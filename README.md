@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cover.png.png" alt="TrafoTest Cover" width="750">
+</p>
+
 # TrafoTest
 
 ### Transformer Test Data Management & Reporting System
@@ -64,7 +68,35 @@ This project provided hands-on experience in developing a real-world enterprise 
 
 ## Screenshots
 
-Application screenshots will be presented here using non-confidential demonstration data.
+## Application Screenshots
+
+### 1. Login Interface
+
+A clean authentication interface for accessing the application.
+
+![Login Interface](./login.png.png)
+
+### 2. Test Results Dashboard
+
+Centralized test records, deviation values, search functionality, status tracking, and Excel reporting.
+
+![Test Results Dashboard](./dashboard.png.png)
+
+### 3. Transformer Test Registration
+
+A structured data entry form for transformer design specifications, measurements, and test comparisons.
+
+![Test Registration](./test-form.png.png)
+
+### 4. Dynamic Analytics Panel
+
+Interactive pivot analysis, configurable data visualization, filtering, and Excel/PDF export capabilities.
+
+![Analytics Panel](./analytics.png.png)
+
+---
+
+*The project cover is an AI-assisted promotional visualization based on the application interface.*
 
 ## Project Status
 
